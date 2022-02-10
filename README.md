@@ -14,4 +14,16 @@
 
 ## Deliverable 2 - Summary Statistics on Suspension Coils
 
+The design specifications for the MechaCar suspension coils dictated that the variance of the suspension coils must not exceed 100 pounds per square inch. Based on the total_summary dataframe that was created, we can see that the variance total variance for all three lots was 62.29356, which falls well below the 100-psi threshold. Based on a per lot basis however, we can see in the lot_summary dataframe, that the variance does differ by lot number. Lot 1 and Lot 2 have a variance of 0.9795918 and 7.4693878 respectively, which both fall within the variance tolerance of 100-psi. Lot 3 however has a appreciably higher variance of 170.2861224, which exceeds the variance toleration dictated in the design specifications. This means that Lot 3 will have to be removed for production implementation, but Lot 1 and Lot 2 could be used in production.  
+
+**Total_Summary**
+![image](https://user-images.githubusercontent.com/92111396/153315236-52fa8f7d-e2e0-4e73-9def-a5cbc06f3894.png)
+
+**Lot_Summary**
+![image](https://user-images.githubusercontent.com/92111396/153315278-35ae9bd1-19d1-4859-91da-2a93085cfab9.png)
+
+
+
+
+
 
