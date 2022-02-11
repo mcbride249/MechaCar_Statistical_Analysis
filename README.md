@@ -81,7 +81,7 @@ Statistical Test Outline
 
 **Statistical Test Outline**
 
-
+The standard p-value of 0.05 would be used to determine the strength of the correlation, with number larger than is signifying a weaker significance and larger values indicating a higher level of significance. Fuel efficiency would be based on kilometres per litre (kpl) and would tested for a 60L engine for both the MechaCar model and the competition models. 
 
 
 
