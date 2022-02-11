@@ -28,7 +28,7 @@ The design specifications for the MechaCar suspension coils dictated that the va
 
 ## Deliverable 3 - T-Tests on Suspension Coils
 
-Based on the combine lot t-test, we can see that the p-value is equal to 0.06028 which is larger than the normal significance level of 0.05, suggesting that there is no significant linear relationship and that the effect the PSI has is based on random chance and error. Ultimately, this means that the null hypothesis must be accepted as there is not enough evidence to support its rejection. 
+Based on the combine lot t-test, we can see that the p-value is equal to 0.06028 which is larger than the normal significance level of 0.05, suggesting that there is no significant linear relationship and that the effect the PSI has is based on random chance and error. Ultimately, this means that the null hypothesis must be accepted (the null hypothesis is failed to be rejected) as there is not enough evidence to support its rejection.  
 
 
 **Combined Lot T-Test**
