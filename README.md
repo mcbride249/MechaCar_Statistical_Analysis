@@ -54,9 +54,32 @@ Lot 3 presents a different representation than the other two lots. In varies so 
 
 
 
+## Deliverable 4 - Study Design: MechaCar vs Competition
 
+The statistical study would need to be designed that compared various metrics of a specific MechaCar model against specific model from the competition. A unique hypothesis would need to be developed for each specific metric that could be tested, and a unique statistical test would need to be developed tuned to the specific metric specifications. 
+Possible Metric Criteria
 
+Data could be collected from the MechaCar model and against a specific model of the competition based on the below criteria.
 
+1.	Acceleration Speed
+2.	Cost (Selling Price)
+3.	Fuel Efficiency
+4.	Comfort (Space & User Functionality)
+
+To allow for these metrics to be measured a large enough sample size would be required, and the samples must be randomly selected. 
+
+**Possible Hypotheses**
+
+Null Hypothesis (Ho): MechaCar has better fuel efficiency compared to other models of its type.
+
+Alternate Hypothesis (Ha): MechaCar does not have better fuel efficiency compared to other models of its type.
+
+**Statistical Test Selection**
+
+I would recommend using the t-test to compare to test the hypothesis. I suggest using this as the is only 1 independent variable that is dichotomous and there is also only 1 dependent variable that is continuous. Furthermore, the analytical question that we are asking, is if there is a statistical difference between the mean of the two samples. 
+Statistical Test Outline
+
+**Statistical Test Outline**
 
 
 
