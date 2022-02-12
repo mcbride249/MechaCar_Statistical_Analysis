@@ -34,6 +34,7 @@ In this challenge, we were tasked to assist Jeremy and the data analytics team d
 3. Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
 4. Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a    summary interpretation of the findings.
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Deliverable 1 – Linear Regression to Predict MPG
@@ -112,7 +113,7 @@ Alternate Hypothesis (Ha): MechaCar does not have better fuel efficiency compare
 
 **Statistical Test Selection**
 
-I would recommend using the t-test to compare to test the hypothesis. I suggest using this as the is only 1 independent variable that is dichotomous and there is also only 1 dependent variable that is continuous. Furthermore, the analytical question that we are asking, is if there is a statistical difference between the mean of the two samples. 
+I would recommend using the t-test to test the hypothesis. I suggest using this as the is only 1 independent variable that is dichotomous and there is also only 1 dependent variable that is continuous. Furthermore, the analytical question that we are asking, is if there is a statistical difference between the mean of the two samples. 
 Statistical Test Outline
 
 **Statistical Test Outline**
@@ -120,12 +121,17 @@ Statistical Test Outline
 The standard p-value of 0.05 would be used to determine the strength of the correlation, with number larger than is signifying a weaker significance and larger values indicating a higher level of significance. Fuel efficiency would be based on kilometres per litre (kpl) and would tested for a 60L engine for both the MechaCar model and the competition models. 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## **Summary**
 
+1. A linear regression analysis identified ground clearance and vehicle length and to a lesser extent vehicle weight as the variables that are statistically unlikely to provide random amounts of variance to the linear model, meaning that all three coefficients have a significant impact on miles per gallon (mpg) for the MechaCar protypes.
 
+2. Summary statistics of the PSI of the suspension coils from the manufacturing lots stated Lot 1 to have  a variance of 0.9795918 and Lot 2 to have  a variance of 7.4693878 respectively, which both fall within the variance tolerance of 100-psi. Lot 3 however, had a variance of 170.2861224, which exceeds the variance toleration dictated in the design specifications
 
+3. The t-tests determined that there is no statistical difference between the sample of Lot 1 and the population mean, there was a strong correlation between the sample of Lot 2 and the population mean, and that there is a very weak correlation between the sample PSI of Lot 3 and the population mean.
 
-
+4. A number of variables were identified as possible indicators of vehicle performance of the MechaCar against vehicles from other manufacturerers such as acceleration speed, cost, and fuel efficiency. In designing our own statistical test, it was decided that t-test would be used to test the hypothesis, and would be measured against the normal correlation with a p-value of 0.05.
 
 
 
