@@ -40,7 +40,7 @@ In this challenge, we were tasked to assist Jeremy and the data analytics team d
 ## Deliverable 1 – Linear Regression to Predict MPG
 
 ![image](https://user-images.githubusercontent.com/92111396/153313295-542f9c27-6fb5-4e79-9287-6080dbff1434.png)
-
+https://github.com/mcbride249/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%201%20-%20Image%201.png
 
 1. Ground clearance and vehicle length and to a lesser extent vehicle weight are statistically unlikely to provide random amounts of variance to the linear model, meaning that all three coefficients have a significant impact on miles per gallon (mpg) for the MechaCar protypes. This is based on the probability coefficient (Pr(>|t|) value being smaller for the ground clearance, vehicle length, and vehicle weight variables. The other variables, spoiler angle and AWD, do appear to contribute a random amount of variance to the linear model, which is presented in their probability coefficient being larger.
 
@@ -56,11 +56,12 @@ The design specifications for the MechaCar suspension coils dictated that the va
 **Total_Summary**
 
 ![image](https://user-images.githubusercontent.com/92111396/153315236-52fa8f7d-e2e0-4e73-9def-a5cbc06f3894.png)
+https://github.com/mcbride249/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%202%20-%20Image%201.png
 
 **Lot_Summary**
 
 ![image](https://user-images.githubusercontent.com/92111396/153315278-35ae9bd1-19d1-4859-91da-2a93085cfab9.png)
-
+https://github.com/mcbride249/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%202%20-%20Image%202.png
 
 
 ## Deliverable 3 - T-Tests on Suspension Coils
@@ -71,7 +72,7 @@ Based on the combine lot t-test, we can see that the p-value is equal to 0.06028
 **Combined Lot T-Test**
 
 ![image](https://user-images.githubusercontent.com/92111396/153320193-b534b6f1-2256-4e62-9a54-48689184be18.png)
-
+https://github.com/mcbride249/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203%20-%20Image%201.png
 
 **Lot 1**
 The p-value for Lot 1 is equal to 1, signifying an extremely strong correlation between the Lot 1 PSI and the population mean of 1500-psi. This is further supported by the fact that the Mean PSI for Lot 1 was itself 1500, demonstrating that there is no statistical difference between the sample of Lot 1 and the population mean. 
@@ -88,7 +89,7 @@ Lot 3 presents a different representation than the other two lots. In varies so 
 **Individual Lot T-Tests**
 
 ![image](https://user-images.githubusercontent.com/92111396/153320327-6a15ce9c-f39c-49ee-b3f7-bf250bfea512.png)
-
+https://github.com/mcbride249/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%203%20-%20Image%202.png
 
 
 ## Deliverable 4 - Study Design: MechaCar vs Competition
