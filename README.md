@@ -21,6 +21,20 @@ The purpose of this project was to perform retrospective analysis of historical 
 
 ## **Module 15 - Challenge** 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Purpose**
+
+The purpose of this challenge  was to help Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team in production of AutosRUs’ newest prototype, the MechaCar. The MechaCar is currently suffering from production troubles that are blocking the manufacturing team’s progress, and upper management has directed Jeremy and his team to assist. 
+
+In this challenge, we were tasked to assist Jeremy and the data analytics team do the following:
+
+1. Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
+2. Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+3. Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
+4. Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a    summary interpretation of the findings.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Deliverable 1 – Linear Regression to Predict MPG
 
