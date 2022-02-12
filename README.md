@@ -4,7 +4,7 @@
 
 ## **Project Overview**
 
-The purpose of this project was to perform retrospective analysis of historical data, analytical verification of current automotive specifications, and study design of future project testing, as part of the data analytics team at AutosRUs using the programming language R. The analysis must be based on a statsitical backbone, a quantitative metric, with a clear interpretation of the results. The analysis required a production of the summary statistics of different variables, visualizations of different data sets, and finally our own interpretation of the statistical test results. In addiition to this, the project required a proposal of our own study design, hypothesis and analysis workflow in order to improve the AutosRUs manufacturing process.
+The purpose of this project was to perform retrospective analysis of historical data, analytical verification of current automotive specifications, and study design of future project testing, as part of the data analytics team at AutosRUs using the programming language R. The analysis must be based on a statistical backbone, a quantitative metric, with a clear interpretation of the results. The analysis required a production of the summary statistics of different variables, visualizations of different data sets, and finally our own interpretation of the statistical test results. In addition to this, the project required a proposal of our own study design, hypothesis and analysis workflow in order to improve the AutosRUs manufacturing process.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -131,7 +131,8 @@ The standard p-value of 0.05 would be used to determine the strength of the corr
 
 3. The t-tests determined that there is no statistical difference between the sample of Lot 1 and the population mean, there was a strong correlation between the sample of Lot 2 and the population mean, and that there is a very weak correlation between the sample PSI of Lot 3 and the population mean.
 
-4. A number of variables were identified as possible indicators of vehicle performance of the MechaCar against vehicles from other manufacturerers such as acceleration speed, cost, and fuel efficiency. In designing our own statistical test, it was decided that t-test would be used to test the hypothesis, and would be measured against the normal correlation with a p-value of 0.05.
+4. A number of variables were identified as possible indicators of vehicle performance of the MechaCar against vehicles from other manufacturers such as acceleration speed, cost, and fuel efficiency. In designing our own statistical test, it was decided that t-test would be used to test the hypothesis and would be measured against the normal correlation with a p-value of 0.05.
+
 
 
 
